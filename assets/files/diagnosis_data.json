@@ -1,0 +1,254 @@
+[
+  {
+    "id": "5435643910",
+    "userid": "16856818",
+    "DiagnosisTier": "old",
+    "title": "Diabetes Mellitus - Type 2",
+    "lasTreated": "15 Jan, 2023",
+    "location": "Brea, California",
+    "doctor1": "Dr. Walter White",
+    "doctor1Speciality": "Senior Internal Medicine",
+    "doctor2": "Mark McDonald MD",
+    "doctor2Speciality": "Family Medicine",
+    "patientObservation": "Weight Loss, Tiredness, Frequent Urination, Blurred vision",
+    "doctorObservation": "Patient presents classic symptoms (ie, polyuria, polydipsia) and hyperglycemia include blurred vision, lower extremity paresthesias",
+    "medication": [
+      {
+        "tablet": "Glucophage 500 mg",
+        "common": "Commonly known as Metformin",
+        "usage": "Take 1 tablet (500 mg total) by mouth\n2(two) times a day for 180 days"
+      }
+    ],
+    "ultrascopy": "None",
+    "echo": "None",
+    "bloodTest": "Fasting : 130    PP : 180"
+  },
+  {
+    "id": "5432678911",
+    "userid": "16856819",
+    "DiagnosisTier": "old",
+    "title": "Coronary Artery Disease",
+    "lasTreated": "21 Jan, 2023",
+    "location": "Los Angeles, CA",
+    "ultrascopy": "cardiomegaly, pulmonary edema, pleural effusion",
+    "echo": "Abnormal ECG results: significant ST changes, pathologic Q wave",
+    "bloodTest": "Fasting : 130    PP : 180",
+    "doctor1": "Dr. James Anderson",
+    "doctor1Speciality": "Senior Cardiologist",
+    "doctor2": "Joseph Ladapo MD",
+    "doctor2Speciality": "Cardiologist",
+    "patientObservation": "Difficulty in breathing, Palpitation",
+    "doctorObservation": "Cardiac arrhythmia, Hypertension and Palpitation",
+    "medication": [
+      {
+        "tablet": "Lotensin 20 mg",
+        "common": "Commonly known as Benazepril",
+        "usage": "Take 1 tablet (20 mg) by mouth\ndaily for 5 days"
+      },
+      {
+        "tablet": "Citalopram 20 mg",
+        "common": "Commonly known as Celexa",
+        "usage": "Take 1 tablet (100 mg) by mouth\ndaily for 5 days"
+      },
+      {
+        "tablet": "Furosemide 20 mg",
+        "common": "Commonly known as Lasix",
+        "usage": "Take 1 tablet (100 mg) by mouth\ndaily for 16 days"
+      }
+    ]
+  },
+  {
+    "id": "5432679920",
+    "userid": "16856816",
+    "DiagnosisTier": "old",
+    "title": "Uterus Fibroids",
+    "lasTreated": "17 Jan, 2023",
+    "location": "Los Angeles, CA",
+    "doctor1": "Dr. Joe Fisnes",
+    "doctor1Speciality": "Senior Neuro Surgeon",
+    "doctor2": "Richard Herrscher MD",
+    "doctor2Speciality": "Gynaecologist",
+    "patientObservation": "Excessive bleeding, Abdominal Pain",
+    "doctorObservation": "Excessive Menstrual bleeding, Feeling of Bulginess in pelvic region ",
+    "ultrascopy": "concentric, solid, hypoechoic masses seen during Transvaginal procedure. This appearance results from the prevailing muscle, which is observed at histologic examination",
+    "echo": "None",
+    "medication": [
+      {
+        "tablet": "Lupron Depot 3.75 mg",
+        "common": "Commonly known as GnHR Agonist",
+        "usage": "Take 1 tablet (3.75 mg total) by\nmouth daily for 3 days"
+      },
+      {
+        "tablet": "Rosuvastatin 20 mg",
+        "common": "Commonly known as Crestor",
+        "usage": "Take 1 tablet (500 mg total) by\nmouth daily for 3 days"
+      },
+      {
+        "tablet": "Scopolomine 1 mg",
+"common": "Commonly known as Hyoscine",
+        "usage": "Apply 1 Patch to skin PRN for\n3 days"
+      }
+    ],
+    "bloodTest": "Fasting : 130    PP : 180"
+  },
+  {
+    "id": "5432679920",
+    "userid": "16856817",
+    "DiagnosisTier": "recent",
+    "title": "Uterus Fibroids",
+    "lasTreated": "17 Jan, 2023",
+    "location": "Los Angeles, CA",
+    "doctor1": "Dr. Joe Fisnes",
+    "doctor1Speciality": "Senior Neuro Surgeon",
+    "doctor2": "Richard Herrscher HD",
+    "doctor2Speciality": "Gynaecologist",
+    "patientObservation": "Excessive bleeding, Abdominal Pain",
+    "doctorObservation": "Excessive Menstrual bleeding, Feeling of Bulginess in pelvic region ",
+    "ultrascopy": "concentric, solid, hypoechoic masses seen during Transvaginal procedure. This appearance results from the prevailing muscle, which is observed at histologic examination",
+    "echo": "None",
+    "medication": [
+      {
+        "tablet": "Lupron Depot 3.75 mg",
+        "common": "Commonly known as GnHR Agonist",
+        "usage": "Take 1 tablet (3.75 mg total) by\nmouth daily for 3 days"
+      },
+      {
+        "tablet": "Rosuvastatin 20 mg",
+        "common": "Commonly known as Crestor",
+        "usage": "Take 1 tablet (500 mg total) by\nmouth daily for 3 days"
+      },
+      {
+        "tablet": "Scopolomine 1 mg",
+        "common": "Commonly known as Hyoscine",
+        "usage": "Apply 1 Patch to skin PRN for\n3 days"
+      }
+    ],
+    "bloodTest": "Fasting : 130    PP : 180"
+  },
+  {
+    "id": "5432678911",
+    "userid": "16856818",
+    "DiagnosisTier": "recent",
+    "title": "Coronary Artery Disease",
+    "lasTreated": "21 Jan, 2023",
+    "location": "Los Angeles, CA",
+    "ultrascopy": "cardiomegaly, pulmonary edema, pleural effusion",
+    "echo": "Abnormal ECG results: significant ST changes, pathologic Q wave",
+    "bloodTest": "Fasting : 130    PP : 180",
+    "doctor1": "Dr. James Anderson",
+    "doctor1Speciality": "Senior Cardiologist",
+    "doctor2": "Jeffery Barke MD",
+    "doctor2Speciality": "Cardiologist",
+    "patientObservation": "Difficulty in breathing, Palpitation",
+    "doctorObservation": "Cardiac arrhythmia, Hypertension and Palpitation",
+    "medication": [
+      {
+        "tablet": "Lotensin 20 mg",
+        "common": "Commonly known as Benazepril",
+        "usage": "Take 1 tablet (20 mg) by mouth\ndaily for 5 days"
+      },
+      {
+        "tablet": "Citalopram 20 mg",
+        "common": "Commonly known as Celexa",
+        "usage": "Take 1 tablet (100 mg) by mouth\ndaily for 5 days"
+      },
+      {
+        "tablet": "Furosemide 20 mg",
+        "common": "Commonly known as Lasix",
+        "usage": "Take 1 tablet (100 mg) by mouth\ndaily for 16 days"
+      }
+    ]
+  },
+  {
+    "id": "5432671111",
+    "userid": "16856819",
+    "DiagnosisTier": "recent",
+    "title": "Diabetes Mellitus - Type 2",
+    "lasTreated": "20 Jan, 2023",
+    "location": "Yorba Linda, Orange county",
+    "doctor1": "Dr. David Warner",
+    "doctor1Speciality": "Senior Internal Medicine",
+    "doctor2": "Mark McDonald MD",
+    "doctor2Speciality": "Family Medicine",
+    "patientObservation": "Weight Loss, Tiredness, Frequent Urination, Blurred vision",
+    "medication": [
+      {
+        "tablet": "Glucophage 500 mg",
+        "common": "Commonly known as Metformin",
+        "usage": "Take 1 tablet (500 mg total) by mouth\n2(two) times a day for 180 days"
+      }
+    ],
+    "doctorObservation": "Patient presents classic symptoms (ie, polyuria, polydipsia) and hyperglycemia include blurred vision, lower extremity paresthesias",
+    "ultrascopy": "None",
+    "echo": "None",
+    "bloodTest": "Fasting : 130    PP : 180"
+  },
+  {
+    "id": "5432672222",
+    "userid": "16856816",
+    "DiagnosisTier": "recent",
+    "title": "Coronary Artery Disease",
+    "lasTreated": "21 Jan, 2023",
+    "location": "Los Angeles, CA",
+    "ultrascopy": "cardiomegaly, pulmonary edema, pleural effusion",
+    "echo": "Abnormal ECG results: significant ST changes, pathologic Q wave",
+    "bloodTest": "Fasting : 130    PP : 180",
+    "doctor1": "Dr. James Anderson",
+    "doctor1Speciality": "Senior Cardiologist",
+    "doctor2": "Jeffery Barke MD",
+    "doctor2Speciality": "Cardiologist",
+    "patientObservation": "Difficulty in breathing, Palpitation",
+    "doctorObservation": "Cardiac arrhythmia, Hypertension and Palpitation",
+    "medication": [
+      {
+        "tablet": "Lotensin 20 mg",
+        "common": "Commonly known as Benazepril",
+        "usage": "Take 1 tablet (20 mg) by mouth\ndaily for 5 days"
+      },
+      {
+        "tablet": "Citalopram 20 mg",
+        "common": "Commonly known as Celexa",
+        "usage": "Take 1 tablet (100 mg) by mouth\ndaily for 5 days"
+      },
+      {
+        "tablet": "Furosemide 20 mg",
+        "common": "Commonly known as Lasix",
+        "usage": "Take 1 tablet (100 mg) by mouth\ndaily for 16 days"
+      }
+    ]
+  },
+  {
+    "id": "5432678911",
+    "userid": "16856817",
+    "DiagnosisTier": "old",
+    "title": "Coronary Artery Disease",
+    "lasTreated": "21 Jan, 2023",
+    "location": "Los Angeles, CA",
+    "ultrascopy": "cardiomegaly, pulmonary edema, pleural effusion",
+    "echo": "Abnormal ECG results: significant ST changes, pathologic Q wave",
+    "bloodTest": "Fasting : 130    PP : 180",
+    "doctor1": "Dr. James Anderson",
+    "doctor1Speciality": "Senior Cardiologist",
+    "doctor2": "Jeffery Barke MD",
+    "doctor2Speciality": "Cardiologist",
+    "patientObservation": "Difficulty in breathing, Palpitation",
+    "doctorObservation": "Cardiac arrhythmia, Hypertension and Palpitation",
+    "medication": [
+      {
+        "tablet": "Lotensin 20 mg",
+        "common": "Commonly known as Benazepril",
+        "usage": "Take 1 tablet (20 mg) by mouth\ndaily for 5 days"
+      },
+      {
+        "tablet": "Citalopram 20 mg",
+        "common": "Commonly known as Celexa",
+        "usage": "Take 1 tablet (100 mg) by mouth\ndaily for 5 days"
+      },
+      {
+        "tablet": "Furosemide 20 mg",
+        "common": "Commonly known as Lasix",
+        "usage": "Take 1 tablet (100 mg) by mouth\ndaily for 16 days"
+      }
+    ]
+  }
+]

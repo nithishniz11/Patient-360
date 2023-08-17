@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Your video consultation with Dr. Robert James is scheduled on Mar 20, 2023 12:30 Pm.",
+    "notification_type": "appointment",
+    "time": "20 minutes ago",
+    "unread": "true"
+  },
+  {
+    "id": "2",
+    "title": "Your ultra scan report is uploaded and ready to view.",
+    "notification_type": "report",
+    "time": "40 minutes ago",
+    "unread": "true"
+  },
+  {
+    "id": "3",
+    "title": "Your Diabetes type II medication is shared",
+    "notification_type": "medication",
+    "time": "55 minutes ago",
+    "unread": "true"
+  },
+  {
+    "id": "4",
+    "title": "Your in-person appointment with Dr. Brooklyn Simmons is scheduled on Feb 2, 2023 6:30 Pm.",
+    "notification_type": "appointment",
+    "time": "1 day ago",
+    "unread": "true"
+  },
+  {
+    "id": "5",
+    "title": "Your blood test report is uploaded and ready to view.",
+    "notification_type": "report",
+    "time": "5 day ago",
+    "unread": "true"
+  },
+  {
+    "id": "6",
+    "title": "Your Fibrosis Uterus medication is shared",
+    "notification_type": "medication",
+    "time": "Jan 1, 2023",
+    "unread": "true"
+  }
+]

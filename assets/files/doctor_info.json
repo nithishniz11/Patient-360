@@ -1,0 +1,312 @@
+[
+
+  {
+    "doc_id": 1,
+    "doc_tier": "recent",
+    "doc_name": "Richard Herrscher MD",
+    "doc_image": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
+    "doc_spec": "Gynaecologist",
+    "doc_type": "In-Network",
+    "doc_hospital_name": "Tufts Medical Center",
+    "location": "Boston, MA",
+    "away_from": "1.5 miles",
+    "patient_treated": "1024",
+    "expertise": "Female Pelvic Medicine and Reconstructive Surgery, Reproductive Endocrinology and Infertility, Maternal-Fetal Medicine",
+    "bio": "Richard Herrscher MD is a Senior Director, The Kelly Gynecologic Oncology Service. She is an Associate Professor of Gynaecology and Obstetrics. She specializes in treating cancer patients that includes Cervical Cancer, Cytoreductive Surgery, Fertility Sparing Surgery, Ovarian Cancer, Robotic and Laparoscopic Surgery, Uterine Cancer, Vulvar Cancer.",
+    "consulting_hours": [
+      {
+        "consulting_period": "Morning",
+        "consulting_time_start": "09:00",
+        "consulting_time_end": "13:00"
+      },
+      {
+        "consulting_period": "Evening",
+        "consulting_time_start": "16:00",
+        "consulting_time_end": "22:00"
+      }
+    ],
+    "past_appointment": [
+      {
+        "appointment_schedule_at": "Yesterday",
+        "appointment_date": "2023-04-10"
+      },
+      {
+        "appointment_schedule_at": "A week ago",
+        "appointment_date": "2023-04-04"
+      },
+      {
+        "appointment_schedule_at": "A month ago",
+        "appointment_date": "2023-04-03"
+      },
+      {
+        "appointment_schedule_at": "A year ago",
+        "appointment_date": "2023-03-10"
+      }
+    ]
+  },
+  {
+    "doc_id": 2,
+    "doc_tier": "recent",
+    "doc_name": "Mark McDonald MD",
+    "doc_image": "https://thumbs.dreamstime.com/b/handsome-hispanic-male-doctor-portrait-outdoors-smiling-63029492.jpg\n",
+    "doc_spec": "Family medicine",
+    "doc_type": "Out-Network",
+    "doc_hospital_name": "Holy Cross Hospital",
+    "location": "Lauderdale, FL",
+    "away_from": "2.3 miles",
+    "patient_treated": "700",
+    "expertise": "pediatrics, obstetrics and gynecology, internal medicine, psychiatry and neurology, surgery, and community medicine.",
+    "bio": "Mark McDonald MD believes physicians should always treat the patient, not the diagnosis. He chose to practice family medicine because he feels it is the cornerstone of medicine, health education and preventative care.",
+    "consulting_hours": [
+      {
+        "consulting_period": "Morning",
+        "consulting_time_start": "09:00",
+        "consulting_time_end": "13:00"
+      },
+      {
+        "consulting_period": "Evening",
+        "consulting_time_start": "16:00",
+        "consulting_time_end": "22:00"
+      }
+    ],
+    "past_appointment": [
+      {
+        "appointment_schedule_at": "Yesterday",
+        "appointment_date": "2023-04-9"
+      },
+      {
+        "appointment_schedule_at": "A week ago",
+        "appointment_date": "2023-04-02"
+      },
+      {
+        "appointment_schedule_at": "A month ago",
+        "appointment_date": "2023-03-31"
+      },
+      {
+        "appointment_schedule_at": "A year ago",
+        "appointment_date": "2022-03-01"
+      }
+    ]
+  },
+  {
+    "doc_id": 3,
+    "doc_tier": "old",
+    "doc_name": "Joseph Ladapo MD",
+    "doc_image": "https://image1.masterfile.com/getImage/NjQ5LTA2MTY0NjQ3ZW4uMDAwMDAwMDA=AArl4q/649-06164647en_Masterfile.jpg",
+    "doc_spec": "Cardiologist",
+    "doc_type": "Out-Network",
+    "doc_hospital_name": "Placentia Linda Hospital",
+    "location": "Placentia",
+    "away_from": "2.9 miles",
+    "patient_treated": "1500",
+    "expertise": "Interventional Cardiology, Cardio thoracic Surgery and treating myocardial infractions",
+    "bio": "Joseph Ladapo MD is a Director, Cardiac Catheterization Laboratory at , Placentia Linda Hospital, He is an Associate Professor of Medicine and having specialization in Cardiology, Cardiovascular Disease, Cardiovascular Medicine, Heart Disease.",
+    "consulting_hours": [
+      {
+        "consulting_period": "Morning",
+        "consulting_time_start": "09:00",
+        "consulting_time_end": "13:00"
+      },
+      {
+        "consulting_period": "Evening",
+        "consulting_time_start": "16:00",
+        "consulting_time_end": "22:00"
+      }
+    ],
+    "past_appointment": [
+      {
+        "appointment_schedule_at": "Yesterday",
+        "appointment_date": "2023-04-10"
+      },
+      {
+        "appointment_schedule_at": "A week ago",
+        "appointment_date": "2023-04-04"
+      },
+      {
+        "appointment_schedule_at": "A week ago",
+        "appointment_date": "2023-04-03"
+      },
+      {
+        "appointment_schedule_at": "A year ago",
+        "appointment_date": "2023-03-10"
+      }
+    ]
+  },
+  {
+    "doc_id": 4,
+    "doc_tier": "old",
+    "doc_name": "Jose R. Cilliani MD",
+    "doc_image": "https://thumbs.dreamstime.com/b/happy-male-doctor-writing-clipboard-side-view-portrait-white-standing-over-white-background-vertical-shot-39366373.jpg",
+    "doc_spec": "Surgeon",
+    "doc_type": "Out-Network",
+    "doc_hospital_name": "Mount Sinai Hospital",
+    "location": "New York, NY",
+    "away_from": "3.6 miles",
+    "patient_treated": "1200",
+    "expertise": "perform operations or surgical procedures involving various major body parts of the human body such as the gastrointestinal tract, liver, colon, etc",
+    "bio": "Josea R. Cilliani MD is a Senior Consultant at department of general surgery and transplantation . Specialized in Hepato-Pancreato-Biliary (HPB) surgery, Performed more than 750 Liver transplants including Cadaveric and Live Donor Liver Transplants. Has done several Robotic Kidney Transplantation and more than 20 robotic cases in very obese patients’ Largest volume of ABO incompatible kidney transplants.",
+    "consulting_hours": [
+      {
+        "consulting_period": "Morning",
+        "consulting_time_start": "09:00",
+        "consulting_time_end": "13:00"
+      },
+      {
+        "consulting_period": "Evening",
+        "consulting_time_start": "16:00",
+        "consulting_time_end": "22:00"
+      }
+    ],
+    "past_appointment": [
+      {
+        "appointment_schedule_at": "Yesterday",
+        "appointment_date": "2023-04-20"
+      },
+      {
+        "appointment_schedule_at": "A week ago",
+        "appointment_date": "2023-04-11"
+      },
+      {
+        "appointment_schedule_at": "A month ago",
+        "appointment_date": "2023-03-17"
+      },
+      {
+        "appointment_schedule_at": "A year ago",
+        "appointment_date": "2022-04-15"
+      }
+    ]
+  },
+  {
+    "doc_id":5,
+    "doc_tier": "old",
+    "doc_name": "Jeffrey Barke MD",
+    "doc_image": "https://thumbs.dreamstime.com/b/portrait-confident-male-doctor-gesturing-clipboard-standing-against-white-background-32062127.jpg",
+    "doc_spec": "Cardiologist",
+    "doc_type": "Out-Network",
+    "doc_hospital_name": "Barnes-Jewish Hospital",
+    "location": "Saint Louis, MO",
+    "away_from": "4.0 miles",
+    "patient_treated": "650",
+    "expertise": "Interventional Cardiology, Cardio thoracic Surgery and treating myocardial infractions",
+    "bio": "Jeffery Barke MD is a Director, Cardiac Catheterization Laboratory at Barnes-Jewish Hospital, He is an Associate Professor of Medicine and having specialization in Cardiology, Cardiovascular Disease, Cardiovascular Medicine, Heart Disease.",
+    "consulting_hours": [
+      {
+        "consulting_period": "Morning",
+        "consulting_time_start": "09:00",
+        "consulting_time_end": "13:00"
+      },
+      {
+        "consulting_period": "Evening",
+        "consulting_time_start": "16:00",
+        "consulting_time_end": "22:00"
+      }
+    ],
+    "past_appointment": [
+      {
+        "appointment_schedule_at": "Yesterday",
+        "appointment_date": "2023-04-25"
+      },
+      {
+        "appointment_schedule_at": "A week ago",
+        "appointment_date": "2023-04-19"
+      },
+      {
+        "appointment_schedule_at": "A month ago",
+        "appointment_date": "2023-03-30"
+      },
+      {
+        "appointment_schedule_at": "A year ago",
+        "appointment_date": "2022-02-28"
+      }
+    ]
+  },
+  {
+    "doc_id": 6,
+    "doc_tier": "old",
+    "doc_name": "Melvin A. Gonzalez MD",
+    "doc_image": "https://img.freepik.com/premium-photo/smart-male-doctor-looking-clipboard-with-patient-s-diagnosis-close-up_213441-83.jpg?w=2000",
+    "doc_spec": "Surgeon",
+    "doc_type": "Out-Network",
+    "doc_hospital_name": "Swedish Medical Center",
+    "location": "Seattle, WA",
+    "away_from": "4.9 miles",
+    "patient_treated": "1600",
+    "expertise": "perform operations or surgical procedures involving various major body parts of the human body such as the gastrointestinal tract, liver, colon, etc.",
+    "bio": "Rob Karas MD is a Senior Consultant at department of general surgery and transplantation . Specialized in Hepato-Pancreato-Biliary (HPB) surgery, Performed more than 750 Liver transplants including Cadaveric and Live Donor Liver Transplants. Has done several Robotic Kidney Transplantation and more than 20 robotic cases in very obese patients’ Largest volume of ABO incompatible kidney transplants.",
+    "consulting_hours": [
+      {
+        "consulting_period": "Morning",
+        "consulting_time_start": "09:00",
+        "consulting_time_end": "13:00"
+      },
+      {
+        "consulting_period": "Evening",
+        "consulting_time_start": "16:00",
+        "consulting_time_end": "22:00"
+      }
+    ],
+    "past_appointment": [
+      {
+        "appointment_schedule_at": "Yesterday",
+        "appointment_date": "2023-04-30"
+      },
+      {
+        "appointment_schedule_at": "A week ago",
+        "appointment_date": "2023-04-20"
+      },
+      {
+        "appointment_schedule_at": "A month ago",
+        "appointment_date": "2023-03-30"
+      },
+      {
+        "appointment_schedule_at": "A year ago",
+        "appointment_date": "2022-03-10"
+      }
+    ]
+  },
+  {
+    "doc_id": 7,
+    "doc_tier": "old",
+    "doc_name": "Rob Karas MD",
+    "doc_image": "https://media.istockphoto.com/id/939600964/photo/confident-doctor-posing.jpg?s=612x612&w=0&k=20&c=heJzASJOE7P66aLHhwK9_XY4SGbppX384qPy0EAk6E0=",
+    "doc_spec": "Paediatrician",
+    "doc_type": "Out-Network",
+    "doc_hospital_name": "Christiana Care Hospital",
+    "location": "Newark, DE",
+    "away_from": "5.2 miles",
+    "patient_treated": "1600",
+    "expertise": "Pediatric Hemato Oncology Critical Care;Paediatric Post Cardiac Surgery Critical Care",
+    "bio": "Rob Karas MD is a Senior Director for Paediatrics and Neonatology. He specialized in Neonatal Resuscitation, Neonatal Neurology, Endocrinology. Performed over 100+ surgeries for infants and helped them leading a normal life.",
+    "consulting_hours": [
+      {
+        "consulting_period": "Morning",
+        "consulting_time_start": "09:00",
+        "consulting_time_end": "13:00"
+      },
+      {
+        "consulting_period": "Evening",
+        "consulting_time_start": "16:00",
+        "consulting_time_end": "22:00"
+      }
+    ],
+    "past_appointment": [
+      {
+        "appointment_schedule_at": "Yesterday",
+        "appointment_date": "2023-05-17"
+      },
+      {
+        "appointment_schedule_at": "A week ago",
+        "appointment_date": "2023-05-10"
+      },
+      {
+        "appointment_schedule_at": "A month ago",
+        "appointment_date": "2023-04-30"
+      },
+      {
+        "appointment_schedule_at": "A year ago",
+        "appointment_date": "2022-03-30"
+      }
+    ]
+  }
+
+]
